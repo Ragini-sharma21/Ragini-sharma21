@@ -27,10 +27,8 @@
 
 <hr>
  
-<div align="center"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragini-sharma21&show_icons=true&theme=dark&locale=en&layout=compact" alt="ragini-sharma21" /></p>
 
-<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragini-sharma21&show_icons=true&theme=dark&locale=en" alt="ragini-sharma21" /></p>
 
 <div align="center">
